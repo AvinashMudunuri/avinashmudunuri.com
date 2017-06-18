@@ -1,0 +1,22 @@
+{
+  "name": "avinashmudunuri.com",
+  "version": "1.0.0",
+  "description": "Resume of Avonash Mudunuri",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvinashMudunuri/avinashmudunuri.com.git"
+  },
+  "keywords": [
+    "Avinash Mudunuri"
+  ],
+  "author": "Avinash Mudunuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvinashMudunuri/avinashmudunuri.com/issues"
+  },
+  "homepage": "https://github.com/AvinashMudunuri/avinashmudunuri.com#readme"
+}
